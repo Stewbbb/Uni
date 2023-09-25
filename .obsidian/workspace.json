@@ -11,10 +11,11 @@
             "id": "20e499f598ff2a40",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Uni-Year-1",
-                "staged": false
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md"
+              }
             }
           },
           {
@@ -149,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c97312922196776",
+  "active": "20e499f598ff2a40",
   "lastOpenFiles": [
+    "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
     "Uni-Year-1/Logical-and-mathematical-foundations",
     "Uni-Year-1/Hello world.md",
     "Uni-Year-1",
