@@ -4,15 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7f17ba00344c0967",
+        "id": "73f43841afffaa48",
         "type": "tabs",
         "children": [
           {
-            "id": "5be82338a9ea05a4",
+            "id": "20e499f598ff2a40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
             }
           }
         ]
@@ -120,13 +123,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "ced909dfbc353117",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,9 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5be82338a9ea05a4",
+  "active": "20e499f598ff2a40",
   "lastOpenFiles": [
+    "Uni-Year-1/Mathematical-and-logical-Foundations/Untitled.md",
     "Untitled.canvas",
+    "Uni-Year-1/Mathematical-and-logical-Foundations",
     "2023-09-25.md"
   ]
 }
