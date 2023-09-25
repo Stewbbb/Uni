@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
+                "file": "Uni-Year-1/Object-oriented-programming/Hello world3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
+                "file": "Uni-Year-1/Object-oriented-programming/Hello world3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
+                "file": "Uni-Year-1/Object-oriented-programming/Hello world3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md"
+                "file": "Uni-Year-1/Object-oriented-programming/Hello world3.md"
               }
             }
           },
@@ -154,11 +154,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ced909dfbc353117",
+  "active": "20e499f598ff2a40",
   "lastOpenFiles": [
+    "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
+    "Uni-Year-1/Object-oriented-programming/Hello world3.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
     "Uni-Year-1/Object-oriented-programming",
     "Uni-Year-1/Data-structures-and-algorithms",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
     "Uni-Year-1/Logical-and-mathematical-foundations",
     "Uni-Year-1/Hello world.md",
     "Uni-Year-1",
