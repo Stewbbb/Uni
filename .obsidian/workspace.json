@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01aa1125459e6d07",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
+                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
+                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md"
+                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md"
               }
             }
           },
@@ -155,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ced909dfbc353117",
+  "active": "01aa1125459e6d07",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-25 15.33.12.excalidraw.md",
     "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
+    "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
+    "Excalidraw/Drawing 2023-09-25 15.33.12.excalidraw.md",
     "Excalidraw",
     "Uni-Year-1/Object-oriented-programming/Hello world3.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
