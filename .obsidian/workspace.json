@@ -23,14 +23,34 @@
             "id": "01aa1125459e6d07",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f40551a847729df",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffb22c756187c58e",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md"
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Formulae.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Formulae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md"
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Formulae.md"
               }
             }
           },
@@ -166,14 +186,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01aa1125459e6d07",
+  "active": "ffb22c756187c58e",
   "lastOpenFiles": [
-    "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
     "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Formulae.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
+    "Uni-Year-1/Data-structures-and-algorithms/Hello world2.md",
     "Excalidraw/Drawing 2023-09-25 15.33.12.excalidraw.md",
     "Excalidraw",
     "Uni-Year-1/Object-oriented-programming/Hello world3.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Hello world.md",
     "Uni-Year-1/Object-oriented-programming",
     "Uni-Year-1/Data-structures-and-algorithms",
     "Uni-Year-1/Logical-and-mathematical-foundations",
