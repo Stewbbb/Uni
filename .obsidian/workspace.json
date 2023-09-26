@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/___ 26-9-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 268.5
   },
   "right": {
     "id": "290c9f1cf3f2437f",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/___ 26-9-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/___ 26-9-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/___ 26-9-23.md"
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md"
               }
             }
           },
@@ -168,17 +168,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ced909dfbc353117",
+  "active": "5eb3314564333824",
   "lastOpenFiles": [
-    "Uni-Year-1/Logical-and-mathematical-foundations/___ 26-9-23.md",
+    "Excalidraw/Logic introduction 26-9-23 2023-09-26 13.21.28.excalidraw.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/!Formulae.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md",
+    "Excalidraw",
+    "Uni-Year-1/Object-oriented-programming/Creating java programs using data 28-6-23.md",
+    "Uni-Year-1/Object-oriented-programming/Introduction 26-9-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Welcome 25-9-23.md",
-    "Uni-Year-1/Object-oriented-programming/___ 26-9-23.md",
     "Uni-Year-1/Data-structures-and-algorithms/Arrays and linked lists 25-9-23.md",
     "Uni-Year-1/Object-oriented-programming/Hello world3.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/!Formulae.md",
     "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
     "Excalidraw/Drawing 2023-09-25 15.33.12.excalidraw.md",
-    "Excalidraw",
     "Uni-Year-1/Object-oriented-programming",
     "Uni-Year-1/Data-structures-and-algorithms",
     "Uni-Year-1/Logical-and-mathematical-foundations",
