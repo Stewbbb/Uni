@@ -20,51 +20,29 @@
             }
           },
           {
-            "id": "5eb3314564333824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/Arrays And Linked lists 29-9-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0bd3d56561bd1257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37e2e8cc8e40a40e",
+            "id": "8ac346c043b9a041",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c24a4b269426461f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
-                "mode": "source",
-                "source": false
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md"
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md"
               }
             }
           },
@@ -200,19 +178,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c24a4b269426461f",
+  "active": "0bd3d56561bd1257",
   "lastOpenFiles": [
     "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.excalidraw.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.excalidraw.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Random.excalidraw.md",
     "Uni-Year-1/Data-structures-and-algorithms/Arrays And Linked lists 29-9-23.md",
     "Uni-Year-1/Data-structures-and-algorithms/Intoduction 25-9-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.md",
     "Uni-Year-1/Object-oriented-programming/Learn java.md",
     "Uni-Year-1/Object-oriented-programming/Introduction 26-9-23.md",
     "Uni-Year-1/Object-oriented-programming/Creating java programs using data 28-6-23.md",
     "Uni-Year-1/Object-oriented-programming/Basics of classes and objects 28-9-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.excalidraw.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Symbolic logic 28-9-23.excalidraw.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Symbolic logic 28-9-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.excalidraw.md",
