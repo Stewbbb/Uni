@@ -135,6 +135,18 @@ e=5
 • 10111 + 11110  
 • 10000 − 1111
 • 1101 × 101
+- 11001
+- 10101
+- 00001
+- 1000001
+
+4. In Java, say that x, y and z are natural number variables, using 4 bytes to store a natural  
+number. Currently, x is 2^31 + 5 and y is 2^31 + 2^30 + 5. After executing z = x + y, what is z?
+z = 2^30 + 5
+
+
+5. a. Y
+	b. O
 
 
 
