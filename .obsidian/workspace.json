@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/AAAAAAAAAAAAAA.md",
+                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/AAAAAAAAAAAAAA.md",
+                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/AAAAAAAAAAAAAA.md",
+                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Data-structures-and-algorithms/AAAAAAAAAAAAAA.md"
+                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "0bd3d56561bd1257",
   "lastOpenFiles": [
-    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
     "Uni-Year-1/Data-structures-and-algorithms/AAAAAAAAAAAAAA.md",
+    "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.excalidraw.md",
     "Uni-Year-1/Data-structures-and-algorithms/Virtual memory and memory management 29-9-23.md",
     "Uni-Year-1/Data-structures-and-algorithms/Introduction 25-9-23.md",
@@ -210,7 +211,6 @@
     "Uni-Year-1/Logical-and-mathematical-foundations",
     "Uni-Year-1/Hello world.md",
     "Uni-Year-1",
-    "Uni-Year-1/Mathematical-and-logical-Foundations/Untitled.md",
     "Untitled.canvas",
     "Uni-Year-1/Mathematical-and-logical-Foundations"
   ]
