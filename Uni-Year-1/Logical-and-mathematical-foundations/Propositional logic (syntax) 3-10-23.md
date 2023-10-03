@@ -36,5 +36,34 @@ precedence: decide which symbols go first (like bidmas) ¬, and, or. -->
 **P --> (Q --> R)**
 
 
+Try to avoid parenthesis 
+
+(P and Q) OR R
+
+PARSE TREE: 
+
+			OR
+	  AND    R
+	P   Q
 
 
+
+
+						    -->
+				AND           AND
+		NOT     Q    NOT       OR
+		P             P      Q    NOT
+														  R
+
+Connective at top is **Main connective**
+
+⊢ turnstile symbol: Everything to the left is premises, right is conclusion
+
+P-->Q, ¬Q ⊢ ¬P
+
+if the things on the left are true formulas then the thing to the right is true
+
+Quickhand of 
+Premise 1: P-->Q
+Premise 2: ¬Q
+Premise 3: ¬P
