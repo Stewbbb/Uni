@@ -20,24 +20,14 @@
             }
           },
           {
-            "id": "0bd3d56561bd1257",
+            "id": "d263f0ce51a67031",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Propositional logic (syntax) 3-10-23.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac346c043b9a041",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.excalidraw.md"
               }
             }
           }
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Propositional logic (syntax) 3-10-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Propositional logic (syntax) 3-10-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md"
+                "file": "Uni-Year-1/Logical-and-mathematical-foundations/Propositional logic (syntax) 3-10-23.md"
               }
             }
           },
@@ -178,35 +168,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bd3d56561bd1257",
+  "active": "d263f0ce51a67031",
   "lastOpenFiles": [
+    "Uni-Year-1/Logical-and-mathematical-foundations/propositional logic 3-10-23.excalidraw.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/!Formulae.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Propositional logic (syntax) 3-10-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.excalidraw.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Symbolic logic 28-9-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Symbolic logic 28-9-23.excalidraw.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
+    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.excalidraw.md",
+    "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
     "GitHubDesktop-linux-3.1.1-linux1.deb",
     "Uni-Year-1/Data-structures-and-algorithms/AAAAAAAAAAAAAA.md",
-    "Uni-Year-1/Object-oriented-programming/Methods 3-10-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Integers 2-10-23.excalidraw.md",
     "Uni-Year-1/Data-structures-and-algorithms/Virtual memory and memory management 29-9-23.md",
     "Uni-Year-1/Data-structures-and-algorithms/Introduction 25-9-23.md",
     "Uni-Year-1/Data-structures-and-algorithms/Arrays and linked lists 2-7-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Logic introduction 26-9-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.excalidraw.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Natural numbers 28-9-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Random.excalidraw.md",
     "Uni-Year-1/Object-oriented-programming/Learn java.md",
     "Uni-Year-1/Object-oriented-programming/Introduction 26-9-23.md",
     "Uni-Year-1/Object-oriented-programming/Creating java programs using data 28-6-23.md",
     "Uni-Year-1/Object-oriented-programming/Basics of classes and objects 28-9-23.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Symbolic logic 28-9-23.excalidraw.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/Symbolic logic 28-9-23.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Tutorial 28-9-23.excalidraw.md",
     "Uni-Year-1/Logical-and-mathematical-foundations/Welcome 25-9-23.md",
     "Excalidraw/Logic introduction 26-9-23 2023-09-26 13.21.28.excalidraw.md",
-    "Uni-Year-1/Logical-and-mathematical-foundations/!Formulae.md",
     "Excalidraw",
     "Uni-Year-1/Object-oriented-programming/Hello world3.md",
     "Uni-Year-1/Data-structures-and-algorithms/Drawing Test.md",
-    "Excalidraw/Drawing 2023-09-25 15.33.12.excalidraw.md",
     "Uni-Year-1/Object-oriented-programming",
     "Uni-Year-1/Data-structures-and-algorithms",
     "Uni-Year-1/Logical-and-mathematical-foundations",
